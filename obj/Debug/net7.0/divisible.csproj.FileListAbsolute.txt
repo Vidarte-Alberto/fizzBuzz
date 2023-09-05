@@ -1,0 +1,15 @@
+/media/chekinvr/Data/CETI/8vo semestre/PA I/divisible/obj/Debug/net7.0/divisible.csproj.AssemblyReference.cache
+/media/chekinvr/Data/CETI/8vo semestre/PA I/divisible/obj/Debug/net7.0/divisible.GeneratedMSBuildEditorConfig.editorconfig
+/media/chekinvr/Data/CETI/8vo semestre/PA I/divisible/obj/Debug/net7.0/divisible.AssemblyInfoInputs.cache
+/media/chekinvr/Data/CETI/8vo semestre/PA I/divisible/obj/Debug/net7.0/divisible.AssemblyInfo.cs
+/media/chekinvr/Data/CETI/8vo semestre/PA I/divisible/obj/Debug/net7.0/divisible.csproj.CoreCompileInputs.cache
+/media/chekinvr/Data/CETI/8vo semestre/PA I/divisible/bin/Debug/net7.0/divisible
+/media/chekinvr/Data/CETI/8vo semestre/PA I/divisible/bin/Debug/net7.0/divisible.deps.json
+/media/chekinvr/Data/CETI/8vo semestre/PA I/divisible/bin/Debug/net7.0/divisible.runtimeconfig.json
+/media/chekinvr/Data/CETI/8vo semestre/PA I/divisible/bin/Debug/net7.0/divisible.dll
+/media/chekinvr/Data/CETI/8vo semestre/PA I/divisible/bin/Debug/net7.0/divisible.pdb
+/media/chekinvr/Data/CETI/8vo semestre/PA I/divisible/obj/Debug/net7.0/divisible.dll
+/media/chekinvr/Data/CETI/8vo semestre/PA I/divisible/obj/Debug/net7.0/refint/divisible.dll
+/media/chekinvr/Data/CETI/8vo semestre/PA I/divisible/obj/Debug/net7.0/divisible.pdb
+/media/chekinvr/Data/CETI/8vo semestre/PA I/divisible/obj/Debug/net7.0/divisible.genruntimeconfig.cache
+/media/chekinvr/Data/CETI/8vo semestre/PA I/divisible/obj/Debug/net7.0/ref/divisible.dll
